@@ -1,0 +1,17 @@
+
+.global-block__container{
+    text-align: center;
+    margin: 0 auto;
+}
+
+.global-block__label{
+    font-size: 40px;
+    color: rgb(43, 42, 42);
+
+}
+.global-block__text{
+    text-align: center;
+    margin: 0 auto;
+    max-width: 300px;
+    color: rgb(177, 96, 96);
+}
